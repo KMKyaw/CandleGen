@@ -53,7 +53,7 @@ CandleGen/
 ├── bear/                     # Generator for bear market data
 ├── bearx2/                   # Generator for strong bear market data
 │
-└── Evaluate/                 # Evaluation scripts for generator performance
+└── evaluate/                 # Evaluation scripts for generator performance
 ```
 
 Each trend folder (e.g., `bull/`, `bear/`, etc.) contains the GAN model and scripts required to generate synthetic data specific to that market condition.
