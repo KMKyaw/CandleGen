@@ -62,4 +62,4 @@ Each trend folder (e.g., `bull/`, `bear/`, etc.) contains the GAN model and scri
 
 ## Evaluation
 
-The `Evaluate/` folder contains scripts to assess the performance and realism of each generator, comparing generated data against real market distributions.
+The `evaluate/` folder contains scripts to assess the performance and realism of each generator, comparing generated data against real market distributions.
