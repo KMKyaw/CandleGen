@@ -38,6 +38,10 @@ pip install -r requirements.txt
 
 > **Note:** The project was developed and tested with **Python 3.10**.
 
+### 3. Download the dataset
+
+Download the dataset from `https://drive.google.com/file/d/15nCsprXhVc4RxzH1L_f--d21mHFXwbU6/view?usp=sharing` and place it inside the `data/`.
+
 ---
 
 ## 📁 Project Structure
